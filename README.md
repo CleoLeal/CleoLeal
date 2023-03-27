@@ -14,9 +14,13 @@
 </div>
 <br> 
 <div align="center"> 
-  <a href="https://instagram.com/cleo.leal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleo-l-67b124243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://instagram.com/cleo.leal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleo-l-67b124243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:cleovleal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+  
+  
+  <a href ="https://cleoLeal.github.io/Porfolio"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge" target="_blank"></a>
+  <a href ="http://toquenarede.epizy.com/toquenarede/quemSomos/"><img src="https://img.shields.io/badge/Toque%20Na%20rede-008000?style=for-the-badge" target="_blank"></a>
  ![Snake animation](https://github.com/CleoLeal/CleoLeal/blob/output/github-contribution-grid-snake.svg)
  
 </div>
