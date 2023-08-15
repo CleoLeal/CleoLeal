@@ -21,6 +21,5 @@
   
   <a href ="https://cleoleal.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge" target="_blank"></a>
   <a href ="http://toquenarede.epizy.com/toquenarede/quemSomos/" target="_blank"><img src="https://img.shields.io/badge/Toque%20Na%20rede-008000?style=for-the-badge" target="_blank"></a>
- ![Snake animation](https://github.com/CleoLeal/CleoLeal/blob/output/github-contribution-grid-snake.svg)
  
 </div>
