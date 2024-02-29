@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cléo+Leal;I'm+18+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleoLeal&show_icons=true&hide_border=true&title_color=fff&icon_color=996699&text_color=996699&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoLeal&layout=compact&langs_count=7&hide_border=true&title_color=fff&text_color=996699&bg_color=0d1117"/>
- 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleoLeal&show_icons=true&count_private=true&hide_border=true&title_color=996699&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" alt="Cléo Leal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoLeal&layout=compact&hide_border=true&title_color=996699&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ### Main skills:
